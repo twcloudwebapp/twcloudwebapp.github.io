@@ -39,21 +39,21 @@ D:\ionic>
     ```
 
 
-1. Install the server dependencies:
+1. 安裝 server dependencies:
 
     ```
     npm install
     ```
 
-1. Start the server:
+1. 啟動 node server:
 
     ```
     node server
     ```
   
-    > If you get an error, make sure you don't have another server listening on port 5000.
+    > 如果有錯誤，察看是否有其它 server 已在監聽 port 5000.
 
-1. Test the REST services. Open a browser and access the following URLs:
+1. 測試 REST services. 打開流覽器訪問:
     - [http://localhost:5000/sessions](http://localhost:5000/sessions) (for a list of conference sessions returned as a JSON document)
     - [http://localhost:5000/sessions/1](http://localhost:5000/sessions/1) (for information about a specific session )
   
