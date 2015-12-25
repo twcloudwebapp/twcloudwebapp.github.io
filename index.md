@@ -7,9 +7,9 @@ title: Ionic Tutorial
 You build a Conference application that allows the attendees of a conference to browse through the list of sessions, 
 and share information on Facebook. 
 
-## What You Will Learn:
+## 學習要點:
 
-- How to create and build (compile and package) an Ionic project using the CLI (Command Line Interface).
+- 使用命令行模式生成專案How to create and build (compile and package) an Ionic project using the CLI (Command Line Interface).
 
 - How to start from one of the Ionic starter apps
 
