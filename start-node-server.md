@@ -2,10 +2,10 @@
 layout: module
 title: Module 2&#58; Starting the Node Server
 ---
-In this module, you install and start a Node.js server that exposes the conference data (sessions and speakers) 
-through a set of REST services.
+這一課，安裝並啟動 Node.js server,透過 [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) 提供討論會場次和演講者的信息。 
 
-## Steps
+
+## 步驟
 
 1. 使用 [git] (https://git-scm.com/) clone 指令，或者到[原著作的github](https://github.com/ccoenraets/ionic-tutorial/archive/master.zip)下載:
 
@@ -51,7 +51,7 @@ D:\ionic>
     node server
     ```
   
-    > 如果有錯誤，察看是否有其它 server 已在監聽 port 5000.
+    > 如果有錯誤，察看是否有其它 server 已在監聽 port 5000。
 
 1. 測試 REST services. 打開流覽器訪問:
     - [http://localhost:5000/sessions](http://localhost:5000/sessions) (for a list of conference sessions returned as a JSON document)
@@ -61,8 +61,8 @@ D:\ionic>
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
 <a href="install-ionic.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> 
-Previous</a>
-<a href="create-ionic-application.html" class="btn btn-default pull-right">Next <i class="glyphicon 
+上一課</a>
+<a href="create-ionic-application.html" class="btn btn-default pull-right">下一課 <i class="glyphicon 
 glyphicon-chevron-right"></i></a>
 </div>
 </div>
