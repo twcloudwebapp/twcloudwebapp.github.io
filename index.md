@@ -36,8 +36,7 @@ you need the iOS SDK and/or the Android SDK installed on your system. If you don
 
 ## Issues 問題
 
-- 如有相關提問或指教，請新增一則 issue [here](https://github.com/twcloudwebapp/issues) if you run
-into any problem or if you have a suggestion to improve this tutorial.
+- 如有相關提問或指教，請在 [here這裡](https://github.com/twcloudwebapp/issues) 新增一則。
 
 - You can also use the Comments section at the bottom of each module to ask a question or report a problem.
 
