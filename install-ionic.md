@@ -14,7 +14,7 @@ title: 第一課 &#58; 安裝Ionic
     npm install -g cordova ionic
     ```
 
-    如果使用 Linux 如 Ubuntu 或是 Mac, 由於系統設罝的緣故，或許需要使用 **sudo** ，以下情況類似，不再重覆:
+    如果使用 Linux 如 Ubuntu 或是 Mac, 由於系統設罝的緣故，或許需要使用 **sudo** ，以下類似情況，不再重覆說明:
 
     ```
     sudo npm install -g cordova ionic
