@@ -33,13 +33,11 @@ D:\ionic>
 
 1. 在命令行模式進入 **ionic-tutorial/server** 目錄
  
- ```
-    cd ionic-tutorial
     ```
-
-```
+    cd ionic-tutorial
     cd server
     ```
+
 
 1. Install the server dependencies:
 
