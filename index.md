@@ -2,7 +2,7 @@
 layout: home
 title: Ionic Tutorial
 ---
-這個教程，是模仿學習 [ccoenraets 的 ionic-tutorial](http://ccoenraets.github.io/ionic-tutorial) 而做的，並不是純粹翻譯，除了以Ionic以主題以外，同時還實踐在GitHub設立帳號和網站，對Ionic部份如有爭議，敬請參考原網站。In this tutorial, you learn how to build a native-like mobile application with  [Ionic]
+這個教程，是模仿學習 [ccoenraets 的 ionic-tutorial](http://ccoenraets.github.io/ionic-tutorial) 而做的，並不是純粹翻譯，除了以Ionic以主題以外，同時還實踐在GitHub設立帳號和網站，對Ionic部份如有爭議，敬請參考原網站。中文的使用上，是我自由心證覺得適當的用法，如有明顯誤用，歡迎指正。In this tutorial, you learn how to build a native-like mobile application with  [Ionic]
 (http://ionicframework.com/) and [AngularJS](https://angularjs.org/). 
 You build a Conference application that allows the attendees of a conference to browse through the list of sessions, 
 and share information on Facebook. 
