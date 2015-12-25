@@ -3,10 +3,10 @@ layout: module
 title: Module 2&#58; Starting the Node Server
 ---
 
-這一課，我單獨在 [co.io](https://c9.io/) 做，
+這一課，我單獨在 [c9.io](https://c9.io/) 做，
 
- - [REST sessions](https://a01-twcloudwebapp.c9users.io:8080/sessions) (for a list of conference sessions returned as a JSON document)
-    - [REST sessions/1](https://a01-twcloudwebapp.c9users.io:8080/sessions/1) (for information about a specific session )
+- [REST sessions](https://a01-twcloudwebapp.c9users.io:8080/sessions) (for a list of conference sessions returned as a JSON document)
+- [REST sessions/1](https://a01-twcloudwebapp.c9users.io:8080/sessions/1) (for information about a specific session )
 
 
 
