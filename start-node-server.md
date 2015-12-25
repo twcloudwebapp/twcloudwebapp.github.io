@@ -21,13 +21,15 @@ D:\ionic>git clone https://github.com/ccoenraets/ionic-tutorial
 remote: Counting objects: 2690, done.
     > 
 remote: Total 2690 (delta 0), reused 0 (delta 0), pack-reused 2690
-
+    > 
 Receiving objects: 100% (2690/2690), 11.52 MiB | 1.86 MiB/s, done.
-
+    > 
 Resolving deltas: 100% (779/779), done.
-
+    > 
 Checking connectivity... done.
-
+    > 
+>
+D:\ionic>
 
 1. Open a terminal window (Mac) or a command window (Windows), and navigate (cd) to the **ionic-tutorial/server** 
 directory
