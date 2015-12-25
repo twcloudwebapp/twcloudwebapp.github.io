@@ -38,9 +38,9 @@ and share information on Facebook.
 
 - 如有相關提問或指教，請在 [here這裡](https://github.com/twcloudwebapp/twcloudwebapp.github.io/issues) 新增一則。
 
-- You can also use the Comments section at the bottom of each module to ask a question or report a problem.
+- 不單獨在每一頁面開放評論。
 
-- You can contact me on Twitter:
+- 也可以在 Twitter 關注留言:
 
     <a href="https://twitter.com/twcloudwebapp" class="twitter-follow-button" data-show-count="true" 
     data-size="large" data-lang="en">關注 
