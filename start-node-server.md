@@ -26,7 +26,7 @@ title: 第二課&#58; 啟動 Node Server
 
 1. 將 ionic-tutorial/server 裡的檔案複制到 a01
  
-1. 安裝 server dependencies:
+1. 安裝 package.json 裡的 server dependencies:
 
     ```
     twcloudwebapp:~/workspace $ npm install
