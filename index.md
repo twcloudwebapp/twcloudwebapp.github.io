@@ -34,9 +34,9 @@ and share information on Facebook.
 if you want to run the application on an iOS and/or an Android device or emulator, 
 you need the iOS SDK and/or the Android SDK installed on your system. If you don't want to install a Mobile SDK, you'll be able to test your application in a browser on your computer.
 
-## Issues
+## Issues 問題
 
-- Please create an issue [here](https://github.com/ccoenraets/ionic-tutorial/issues) if you run
+- 如有相關提問或指教，請新增一則 issue [here](https://github.com/twcloudwebapp/issues) if you run
 into any problem or if you have a suggestion to improve this tutorial.
 
 - You can also use the Comments section at the bottom of each module to ask a question or report a problem.
