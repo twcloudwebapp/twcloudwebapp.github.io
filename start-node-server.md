@@ -7,13 +7,21 @@ through a set of REST services.
 
 ## Steps
 
-1. Download the supporting files for this tutorial [here](https://github.com/ccoenraets/ionic-tutorial/archive/master.zip), or clone the repository:
+1. 使用 [git] (https://git-scm.com/) clone 指令，或者到[原著作的github](https://github.com/ccoenraets/ionic-tutorial/archive/master.zip)下載:
 
     ```
     git clone https://github.com/ccoenraets/ionic-tutorial
     ```
 
-    > If you downloaded the zip file, unzip it anywhere on your file system.
+    > 
+D:\ionic>git clone https://github.com/ccoenraets/ionic-tutorial
+Cloning into 'ionic-tutorial'...
+remote: Counting objects: 2690, done.
+remote: Total 2690 (delta 0), reused 0 (delta 0), pack-reused 2690
+Receiving objects: 100% (2690/2690), 11.52 MiB | 1.86 MiB/s, done.
+Resolving deltas: 100% (779/779), done.
+Checking connectivity... done.
+
 
 1. Open a terminal window (Mac) or a command window (Windows), and navigate (cd) to the **ionic-tutorial/server** 
 directory
