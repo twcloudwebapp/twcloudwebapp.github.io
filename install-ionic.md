@@ -35,7 +35,7 @@ title: 第一課 &#58; 安裝Ionic
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
 <a href="index.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> 
-Previous</a>
+上一課</a>
 <a href="start-node-server.html" class="btn btn-default pull-right">下一課 <i class="glyphicon 
 glyphicon-chevron-right"></i></a>
 </div>
