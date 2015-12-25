@@ -1,8 +1,8 @@
 ---
 layout: module
-title: 第一課 1&#58; 安裝Install Ionic
+title: 第一課 &#58; 安裝Ionic
 ---
-In this module, you install the [Ionic Framework](http://ionicframework.com/) and [Cordova](http://cordova.apache.org/) using npm (the Node Package Manager).
+使用[npm] (https://www.npmjs.com/).安裝 [Ionic Framework](http://ionicframework.com/) 和 [Cordova](http://cordova.apache.org/) 
 
 ## Steps
 
