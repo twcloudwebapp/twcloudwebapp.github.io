@@ -32,9 +32,7 @@ and share information on Facebook.
 
 
 
->A mobile device or a Mobile SDK is **not** a requirement for this tutorial. However, 
-if you want to run the application on an iOS and/or an Android device or emulator, 
-you need the iOS SDK and/or the Android SDK installed on your system. If you don't want to install a Mobile SDK, you'll be able to test your application in a browser on your computer.
+>這個教程**不必**使用手機或平板，用電腦的流覽器即可。如果想要有手機或平板APP的效果，另訂主題分享。
 
 ## Issues 問題
 
