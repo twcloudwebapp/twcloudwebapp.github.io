@@ -14,7 +14,7 @@ through a set of REST services.
     ```
 
     > 
-D:\ionic>git clone https://github.com/ccoenraets/ionic-tutorial
+xxxD:\ionic>git clone https://github.com/ccoenraets/ionic-tutorial
   >Cloning into 'ionic-tutorial'...
   >remote: Counting objects: 2690, done.
 remote: Total 2690 (delta 0), reused 0 (delta 0), pack-reused 2690
