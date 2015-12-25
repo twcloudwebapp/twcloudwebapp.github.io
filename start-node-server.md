@@ -32,9 +32,11 @@ Checking connectivity... done.
 D:\ionic>
 
 1. 在命令行模式進入 **ionic-tutorial/server** 目錄
+ 
  ```
     cd ionic-tutorial
     ```
+
 ```
     cd server
     ```
