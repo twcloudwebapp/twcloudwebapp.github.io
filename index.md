@@ -24,9 +24,9 @@ and share information on Facebook.
 - How to login with Facebook, and publish information to your feed
 
 
-## Requirements
+## Requirements 基本需求
 
-- To complete this workshop, all you need is a code editor, a modern browser, and a connection to the Internet.
+- 代碼編輯工具，建議使用 [Sublime Text](http://www.sublimetext.com/)。
 
 - A working knowledge of HTML and JavaScript is assumed, but you don't need to be a JavaScript guru.
 
