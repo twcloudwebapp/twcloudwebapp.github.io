@@ -20,13 +20,13 @@ title: 第一課 &#58; 安裝Ionic
     sudo npm install -g cordova ionic
     ```
 
-1. If you already have Cordova and Ionic installed on your computer, make sure you update to the latest version:
+1. 如果已安裝 Cordova 和 Ionic ，可以使用以下指令確認更新到最新版本:
 
     ```
     npm update -g cordova ionic
     ```
 
-    or
+    或者
 
     ```
     sudo npm update -g cordova ionic
@@ -36,7 +36,7 @@ title: 第一課 &#58; 安裝Ionic
 <div class="col-sm-12">
 <a href="index.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> 
 Previous</a>
-<a href="start-node-server.html" class="btn btn-default pull-right">Next <i class="glyphicon 
+<a href="start-node-server.html" class="btn btn-default pull-right">下一課 <i class="glyphicon 
 glyphicon-chevron-right"></i></a>
 </div>
 </div>
