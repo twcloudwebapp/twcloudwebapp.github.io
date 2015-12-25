@@ -6,7 +6,7 @@ title: 第一課 &#58; 安裝Ionic
 
 ## 步驟
 
-1. Make sure you have an up-to-date version of Node.js installed on your system. If you don't have Node.js installed, you can install it from [here](http://nodejs.org/).
+1. 確認己安裝最新版本的 [Node.js](http://nodejs.org/)，(2015-12)建議使用 v4.2.4 LTS。
 
 1. Open a terminal window (Mac) or a command window (Windows), and install Cordova and Ionic:
 
