@@ -8,13 +8,13 @@ title: 第一課 &#58; 安裝Ionic
 
 1. 確認己安裝最新版本的 [Node.js](http://nodejs.org/)，(2015-12)建議使用 v4.2.4 LTS。
 
-1. Open a terminal window (Mac) or a command window (Windows), and install Cordova and Ionic:
+1. 在命令行模式下指令:
 
     ```
     npm install -g cordova ionic
     ```
 
-    On a Mac, you may have to use **sudo** depending on your system configuration:
+    如果使用 Linux 如 Ubuntu 或是 Mac, 由於系統設罝的緣故，或許需要使用 **sudo** ，以下情況類似，不再重覆:
 
     ```
     sudo npm install -g cordova ionic
