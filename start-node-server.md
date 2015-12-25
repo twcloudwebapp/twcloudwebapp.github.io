@@ -15,8 +15,8 @@ through a set of REST services.
 
     > 
 D:\ionic>git clone https://github.com/ccoenraets/ionic-tutorial
-Cloning into 'ionic-tutorial'...
-remote: Counting objects: 2690, done.
+  >Cloning into 'ionic-tutorial'...
+  >remote: Counting objects: 2690, done.
 remote: Total 2690 (delta 0), reused 0 (delta 0), pack-reused 2690
 Receiving objects: 100% (2690/2690), 11.52 MiB | 1.86 MiB/s, done.
 Resolving deltas: 100% (779/779), done.
