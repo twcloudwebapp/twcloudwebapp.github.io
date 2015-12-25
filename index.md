@@ -28,7 +28,9 @@ and share information on Facebook.
 
 - 代碼編輯工具，建議使用 [Sublime Text](http://www.sublimetext.com/)。
 
-- A working knowledge of HTML and JavaScript is assumed, but you don't need to be a JavaScript guru.
+- 基本知識，請查閱 [APPCAMP](http://appcamp.io/)。
+
+
 
 >A mobile device or a Mobile SDK is **not** a requirement for this tutorial. However, 
 if you want to run the application on an iOS and/or an Android device or emulator, 
