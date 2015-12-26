@@ -2,6 +2,8 @@
 layout: module
 title: Module 4&#58; Creating the Session Service
 ---
+Inoic 是在 Angular 的基礎上建造出來的框架，Angular 正在(2015年底)創建版本2，Inoic 也在積極互動中。在此之時，目前的組合仍是混合模式APP開發的首選。
+
 In the sidemenu starter app, the playlists are hardcoded in controllers.js. In this module, 
 you create a Session service that uses the [Angular resource module](https://docs.angularjs
 .org/api/ngResource/service/$resource) (ngResource) to retrieve the conference sessions using REST services. 
