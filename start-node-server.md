@@ -7,7 +7,7 @@ title: 第一課&#58; 啟動 Node Server
 
 如果想先專心在 Ionic 的開發，可以直接使用如下的服務，略過本頁上的步驟。
 
-為了可以透過internet直接訪問，單獨在 [c9.io](https://c9.io/) 做，效果如下:
+為了可以透過 internet 直接訪問，單獨在 [c9.io](https://c9.io/) 做，效果如下:
 
 - [https://a01-twcloudwebapp.c9users.io:8080/sessions](https://a01-twcloudwebapp.c9users.io:8080/sessions) 
 
