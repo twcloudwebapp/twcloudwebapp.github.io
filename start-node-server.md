@@ -5,7 +5,7 @@ title: 第二課&#58; 啟動 Node Server
 
 這一課，安裝並啟動 Node Server,透過 [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) 提供研討會場次和演講者的信息。
 
-我單獨在 [c9.io](https://c9.io/) 做，效果如下:
+為了擴展REST的部份，可以透過internet直接訪問，單獨在 [c9.io](https://c9.io/) 做，效果如下:
 
 - [https://a01-twcloudwebapp.c9users.io:8080/sessions](https://a01-twcloudwebapp.c9users.io:8080/sessions) 
 
