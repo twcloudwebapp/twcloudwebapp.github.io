@@ -1,11 +1,11 @@
 ---
 layout: module
-title: Module 3&#58; Creating an Ionic Application
+title: 第三課&#58; 新建 Ionic APP
 ---
-In this module, you use the Ionic CLI (command line interface) to create a new application based on the sidemenu 
-starter app. 
+使用命令行 CLI (command line interface) 新建具有 sidemenu 模板的 APP。 
 
-## Steps
+
+## 步驟
 
 1. Open a new terminal window (Mac) or a command window (Windows), and navigate (cd) to the **ionic-tutorial** directory
 
@@ -27,8 +27,13 @@ starter app.
     ionic serve
     ```
 
-    > NOTE: Because of cross domain policy issues (specifically when loading templates), 
-    you have to load the application from a server (using the http protocol and not the file protocol). **ionic serve** is a lightweight local web server with live reload.
+    會在網頁上出現 iOS 和 Android 查看這網站的模樣，
+
+    ```
+    ionic serve --lab
+    ```
+
+    > NOTE: 直接打開網頁得不到應有的效果，必需有 web server。**ionic serve** 是個本地端輕量級的 web server，隨著程式碼改變，不必人為去按F5刷新，能立即自動重載更新。
 
 1. In the application, open the side menu ("hamburger" icon in the upper left corner) and select 
 **Playlists**. 
