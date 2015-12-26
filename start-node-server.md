@@ -5,7 +5,7 @@ title: 第一課&#58; 啟動 Node Server
 
 安裝並啟動 Node Server,透過 [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) 提供範例程式的研討會場次和演講者的信息。
 
-如果想先專心在 Ionic 的開發，可以直接使用如下的服務，略過本頁上的步驟。
+如果想先專心在 Ionic 的開發，可以直接使用如下的服務，略過本頁的步驟部份。
 
 為了可以透過 internet 直接訪問，單獨在 [c9.io](https://c9.io/) 做，效果如下:
 
@@ -19,7 +19,7 @@ title: 第一課&#58; 啟動 Node Server
 
 根據 [臺北市政府資訊局 市政網站整合平台之常見問答](http://data.taipei/opendata/datalist/datasetMeta?oid=203f1657-bb4a-45a7-b25f-279b63136645)
 
-模仿前述的做法，在900多筆的情況還勉強可以接受，如何是再10倍或100倍以上的資料量時，就要有進一步的解決方案。
+模仿前述的做法，在900多筆的情況還勉強可以接受，如何是萬筆以上的資料量時，就要有進一步的解決方案。
 
 - [https://a01-twcloudwebapp.c9users.io:8080/taipeis](https://a01-twcloudwebapp.c9users.io:8080/taipeis) 
 
