@@ -1,9 +1,11 @@
 ---
 layout: module
-title: 第二課&#58; 啟動 Node Server
+title: 第一課&#58; 啟動 Node Server
 ---
 
-安裝並啟動 Node Server,透過 [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) 提供研討會場次和演講者的信息。
+安裝並啟動 Node Server,透過 [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) 提供範例程式的研討會場次和演講者的信息。
+
+如果想先專心在 Ionic 的開發，可以直接使用如下的服務，略過本頁上的步驟。
 
 為了擴展REST的部份，可以透過internet直接訪問，單獨在 [c9.io](https://c9.io/) 做，效果如下:
 
