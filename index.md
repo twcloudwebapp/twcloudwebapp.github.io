@@ -2,7 +2,7 @@
 layout: home
 title: Ionic Tutorial
 ---
-這個教程，是以學習驗證 [ccoenraets 的 ionic-tutorial](http://ccoenraets.github.io/ionic-tutorial) 而做的，並不是純粹翻譯，有取捨，有擴展。除了Ionic主題以外，對 Node 部份有在 c9.io 實做，同時還實踐在GitHub設立帳號和網站，添加的部份主要是記錄主要的步驟，有些基本功並不過度詳述。
+這個教程，是以學習驗證 [ccoenraets 的 ionic-tutorial](http://ccoenraets.github.io/ionic-tutorial) 而做的，並不是純粹翻譯，有取捨，有擴展。除了Ionic主題以外，對 Node 部份有在 c9.io 實做，同時還實踐在GitHub設立帳號和網站，添加的部份是記錄主要步驟，有些屬於基本功，就不過度詳述。
 
 對Ionic部份如有爭議，敬請參考原網站。
 
