@@ -45,8 +45,8 @@ implemented in the starter app).
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
 <a href="start-node-server.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> 
-Previous</a>
-<a href="create-angular-service.html" class="btn btn-default pull-right">Next <i class="glyphicon 
+上一課</a>
+<a href="create-angular-service.html" class="btn btn-default pull-right">下一課 <i class="glyphicon 
 glyphicon-chevron-right"></i></a>
 </div>
 </div>
