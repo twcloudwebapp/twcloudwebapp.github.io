@@ -4,7 +4,7 @@ title: Ionic Tutorial
 ---
 這個教程，是以學習驗證 [ccoenraets 的 ionic-tutorial](http://ccoenraets.github.io/ionic-tutorial) 而做的，並不是純粹翻譯，有取捨，有擴展。除了Ionic主題以外，對 Node 部份有在 c9.io 實做，同時還實踐在GitHub設立帳號和網站，添加的部份是記錄主要步驟，有些屬於基本功，就不過度詳述。
 
-對Ionic部份如有爭議，敬請參考原網站。
+對Ionic部份深入研究理解，[官網docs](http://ionicframework.com/docs)最佳。
 
 中文的使用上，按自由心證，覺得適當就用，不刻意區分兩岸多地，如仍有明顯誤用，歡迎指正。In this tutorial, you learn how to build a native-like mobile application with  [Ionic]
 (http://ionicframework.com/) and [AngularJS](https://angularjs.org/). 
