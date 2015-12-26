@@ -6,7 +6,7 @@ title: Ionic Tutorial
 
 對Ionic部份如有爭議，敬請參考原網站。
 
-中文的使用上，是我自由心證覺得適當的用法，如有明顯誤用，歡迎指正。In this tutorial, you learn how to build a native-like mobile application with  [Ionic]
+中文的使用上，按自由心證，覺得適當就用，不刻意區分兩岸多地，如仍有明顯誤用，歡迎指正。In this tutorial, you learn how to build a native-like mobile application with  [Ionic]
 (http://ionicframework.com/) and [AngularJS](https://angularjs.org/). 
 You build a Conference application that allows the attendees of a conference to browse through the list of sessions, 
 and share information on Facebook. 
