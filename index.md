@@ -37,7 +37,7 @@ and share information on Facebook.
 - How to login with Facebook, and publish information to your feed
 
 
-## Requirements 基本需求
+## 基本需求
 
 - 代碼編輯工具，建議使用 [Sublime Text](http://www.sublimetext.com/)。
 
@@ -47,7 +47,7 @@ and share information on Facebook.
 
 >這個教程使用手機、平板或電腦的流覽器即可。如果想要有手機或平板APP的效果，隨後會有說明。
 
-## Issues 問題
+## 提問指教
 
 - 不單獨在每一頁面開放評論。如有相關提問或指教，請在 [github 這裡](https://github.com/twcloudwebapp/twcloudwebapp.github.io/issues) 新增。
 
