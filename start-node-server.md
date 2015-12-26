@@ -11,6 +11,8 @@ title: 第二課&#58; 啟動 Node Server
 
 - [https://a01-twcloudwebapp.c9users.io:8080/sessions/1](https://a01-twcloudwebapp.c9users.io:8080/sessions/1) 
 
+
+
 根據 [臺北市政府資訊局 市政網站整合平台之常見問答](http://data.taipei/opendata/datalist/datasetMeta?oid=203f1657-bb4a-45a7-b25f-279b63136645)
 
 模仿前述的做法,在951筆的情況還勉強可以接受,如何是再10倍或100倍以上的資料量時,就要有進一步的解決方案。
