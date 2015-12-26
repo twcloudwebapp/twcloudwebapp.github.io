@@ -40,9 +40,8 @@ and share information on Facebook.
 
 ## Issues 問題
 
-- 如有相關提問或指教，請在 [github 這裡](https://github.com/twcloudwebapp/twcloudwebapp.github.io/issues) 新增。
+- 不單獨在每一頁面開放評論。如有相關提問或指教，請在 [github 這裡](https://github.com/twcloudwebapp/twcloudwebapp.github.io/issues) 新增。
 
-- 不單獨在每一頁面開放評論。
 
 - 也可以在 Twitter 關注留言:
 
