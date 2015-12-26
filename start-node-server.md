@@ -66,9 +66,9 @@ title: 第二課&#58; 啟動 Node Server
 
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
-<a href="install-ionic.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> 
+<a href="index.html" class="btn btn-default"><i class="glyphicon glyphicon-chevron-left"></i> 
 上一課</a>
-<a href="create-ionic-application.html" class="btn btn-default pull-right">下一課 <i class="glyphicon 
+<a href="install-ionic.html" class="btn btn-default pull-right">下一課 <i class="glyphicon 
 glyphicon-chevron-right"></i></a>
 </div>
 </div>

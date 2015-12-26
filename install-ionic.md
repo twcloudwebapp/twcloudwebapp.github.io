@@ -26,11 +26,6 @@ title: 第一課 &#58; 安裝Ionic
     npm update -g cordova ionic
     ```
 
-    或者
-
-    ```
-    sudo npm update -g cordova ionic
-    ```
 
 <div class="row" style="margin-top:40px;">
 <div class="col-sm-12">
